@@ -3,3 +3,4 @@
 String apiKey = 'AIzaRfDod5sc2Opk8HNh8HKNM4sdcsaIdc4sdOs';
 String address = 'Street Leopold 5666, Munchen';
 new AWSCredentials("AKHDNSYEHDFHASDFJQKD", "Ay4LKJHG+WYSj6jdhGHu8jh9sas9HSNuBSHDGBjy")
+"password"="admin:admin123"
